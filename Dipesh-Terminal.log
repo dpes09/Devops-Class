@@ -1,0 +1,267 @@
+Script started on Thu Jun 20 16:32:33 2019
+    1  git
+    2  git --version
+    3  sudo apt-get autoremove eclipse*
+    4  apt-get autoremove eclipse*
+    5  apt  autoremove eclipse*
+    6  java --version
+    7  javac --version
+    8  eclipse -clean
+    9  eclipse --clean
+   10  eclipse
+   11  ls
+   12  cd Documents/
+   13  ls
+   14  cd faq/
+   15  git
+   16  git inint
+   17  git init
+   21  git status
+   22  git clone https://github.com/dpes09/Queue_C.git
+   23  git status
+   24  ls
+   25  git checkout Queue_C_branch_One
+   26  git branch Queue_C_branch_Three
+   27  ls
+   28  cd Queue_C/
+   29  ls
+   30  git branch Queue_C_branch_Three
+   31  ls
+   32  git checkout Queue_C_branch_Three
+   33  ls
+   34  git checkout master
+   35  got status
+   36  git status
+   37  git commit -m "modified menu selection"
+   38  git checkout Queue_C_branch_Three
+   39  git commit -m "modified menu selection"
+   40  git status
+   41  git push
+   42  git push --set-upstream origin Queue_C_branch_Three
+   43  git status
+   44  git push
+   45  git commit -m "modified selection"
+   46  git st
+   47  git c commit -m "modified selection"
+   48  git add c
+   49  git add a
+   50  git add main.c
+   51  git main.c  commit -m "modified selection"
+   52  git commit -m "modified selection"
+   53  git puch
+   54  git push
+   55  git status
+   56  git status
+   57  git origin master
+   58  git checkout master
+   59  git push
+   60  git status
+   61  mvn clean install
+   62  mvn -version
+   63  brew install maven
+   64  cd Downloads/
+   65  mv apache-maven-3.6.1 /Applications/
+   66  cd /Applications
+   67  cd apache-maven-3.6.1/
+   68  pwd
+   69  cd /Users/dipshr/
+   70  ls -l
+   71  ls -a
+   72  open -e .bash_profile
+   73  touch .bash_profile
+   74  open -e .bash_profile
+   75  source .bash_profile 
+   76  mvn -version
+   77  mvn clean install
+   78  clear
+   79  ls
+   80  cd Downloads/
+   81  ls
+   82  mvn clean install
+   90  mvn clean install -DskipTests
+   91  java -jar bootDemo-0.0.1-SNAPSHOT.jar
+   92  ls
+   93  cd target/
+   94  java -jar bootDemo-0.0.1-SNAPSHOT.jar
+   95  java -jar bootdemo-0.0.1-SNAPSHOT.jar
+   96  ls
+   97  cd ..
+   98  cd ..
+   99  ls
+  100  cd currency-converter-master/
+  101  ls
+  102  mvn clean install
+  103  mvn clean install -DskipTests
+  104  bower install
+  105  bower -version
+  106  brew bower
+  107  brew install bower
+  108  js
+  109  mvn clean install 
+  110  mvn clean install -DskipTests
+  111  mvn clean install spring-boot:run -Dspring.profiles.active=test
+  112  clear
+  113  brew tap mongodb/brew
+  114  brew install mongodb-community@4.0
+  115  mongod --config /usr/local/etc/mongod.conf
+  116   lear
+  117  clear
+  118  brew services start mongodb-community@4.0
+  119  mongo
+  120  brew update
+  121  brew install node
+  122  node -v
+  123  npm -v
+  124  bower install
+  125  mvn clean install 
+  126  clear
+  127  exit
+  128  mvn clean install 
+  129  mvn clean install -DskipTests
+  130  ls
+  131  cd target
+  132  ls
+  133  java -jar currency-converter-spring-api-1.0.0.jar
+  134  lsof -i:8080
+  135  kill 10567
+  136  clear
+  137  bower install
+  138  mvn clean install -DskipTests
+  139  lsof -i:8080
+  140  lsof -i:8080
+  141  clear
+  142  cd bin
+  143  ls
+  144  ls -al *.sh
+  145  chmod +x *.sh
+  146  ls -al *.sh
+  147  ./startup.sh 
+  148  ./shutdown.sh 
+  149  exit
+  150  jenkins
+  151      /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  152  jenkins-lts
+  153  jenkins-lts
+  154  brew install jenkins-lts
+  155  sudo nano /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  156  sudo gedit /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  157  vim gedit /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  158  vim /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  159  sudo nano /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  160  sudo nano /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  161  brew services start jenkins-lts
+  162  lsof -i:8080
+  163  kill 11094
+  164  kill 11444
+  165  brew services start jenkins-lts
+  166  brew services restart jenkins-lts
+  167  cat /Users/dipshr/.jenkins/secrets/initialAdminPassword
+  168  brew uninstall jenkins-lts
+  169  brew remove  jenkins-lts
+  170  brew deps jenkins-lts
+  171  brew services restart jenkins-lts/Library/Application\ Support/Jenkins/Uninstall.command
+  172  brew install jenkins-lts
+  173  ./startup.sh 
+  174  find /Users/Shared/Jenkins \( -not -user daemon -or -not -group daemon \) -print0 | xargs -0 chown daemon:daemon
+  175  sudo 
+  176  sudo 
+  177  sudo 
+  179  java -version
+  180  Library/Application Support/Jenkins/jenkins-runner.sh
+  181  cd Library/Application Support/Jenkins/jenkins-runner.sh
+  182  history
+  183  sudo nano /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  184  sudo nano /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  185  sudo service jenkins stop
+  186  sudo service jenkins start
+  187  sudo nano /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  188  brew services start jenkins-lts
+  189  brew services restart jenkins-lts
+  190  java -version
+  191  sudo Library/Application Support/Jenkins/Uninstall.command
+  192  brew doctor
+  193  brew cleanup
+  194  brew update
+  195  brew upgrade
+  196  clear
+  197  brew doctor
+  198  brew cask install java8
+  199  brew cask install java8
+  200  brew isntall jenkins-lts
+  201  brew install jenkins-lts
+  202  sudo nano /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins-lts.plist
+  203  brew services start jenkins-lts
+  204  brew services restart jenkins-lts
+  205  cat /Users/dipshr/.jenkins/secrets/initialAdminPassword
+  206  ec2-user@18.225.33.117
+  207  ssh ec2-user@18.225.33.117
+  208  ssh ec2-user@18.225.33.117
+  209  sudo ssh ec2-user@18.225.33.117
+  210  chmod 400 testkey.pem
+  211  ls
+  212  cd Downloads/
+  213  ls
+  215  ssh -v -i testkey.pem ec2-user@18.225.33.117
+  216  ping 18.225.33.117
+  217  man
+  218  man ssh
+  219  man ssh
+  220  tree 
+  221  brew install tree
+  222  tree
+  223  clear
+  224  ls
+  225  cd Downloads/
+  226  ls
+  227  tree 
+  228  clear
+  229  git
+  230  git init
+  231  exit
+  232  ls
+  233  cd ..
+  234  ls
+  235  history
+  236  ls
+  237  cd Documents/
+  238  touch file1.txt
+  239  vim file1.txt 
+  240  cat file1.txt 
+  241  vim printnum.sh
+  242  sh ./printnum.sh 
+  243  clear
+  244  vim printnum1.sh
+  245  mkdir samplegit
+  246  cd samplegit/
+  247  git init
+  248  git status
+  249  git add .
+  250  git clone https://github.com/kmlchauhan/pru-assignment.git
+  253  ls -l
+  254  cd pru-assignment/
+  255  ls -l
+  256  vim README.md 
+  258  git status
+  259  git commit -am "example commit"
+  260  git status
+  261  git pull
+  262  git pull
+  263  service jenkins restart
+  264  brew services restart jenkins-lts
+  265  sudo brew services restart jenkins-lts
+  266  brew services restart jenkins-lts
+  267  sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
+  268  lsof -i:8080
+  269  brew services start jenkins-lts
+  270  brew services restart jenkins-lts
+  271  cat /var/root/.jenkins/secrets/initialAdminPassword
+  273  sudo cat /var/root/.jenkins/secrets/initialAdminPassword
+  274  /Users/dipshr dscacheutil -q host -a name localhost
+  275  dscacheutil -q host -a name localhost
+  276  dscacheutil -q host -a name localhost
+  277  ls
+  278  clear
+  279  history
+
+
+Script done on Thu Jun 20 16:33:58 2019
